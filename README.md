@@ -105,3 +105,5 @@ For activity log please read `spatie/laravel-activitylog` [docs](https://docs.sp
 ## License
 
 This project is licensed under the MIT License - see the [License File](LICENSE) for details
+Se agregó módulo CRUD de usuarios
+Se agregó módulo CRUD de usuarios
